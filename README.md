@@ -4,7 +4,7 @@
 
 **Solution:** Built a lightweight PHP ticketing portal as e-Cadre/ICT Assistant with ticket codes, priority tagging, status workflow, and email-ready notifications.
 
-**Live Demo:** [View Interactive Demo](https://your-portfolio-link.com) ← add your portfolio link here
+**Live Demo:** [View Interactive Demo](https://zvmkhabela.github.io/it-support-ticketing-system-demo/)
 
 ### 📸 Screenshots
 - Dashboard with stats: Total, Open, In Progress, Resolved
